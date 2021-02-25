@@ -7,4 +7,6 @@ Release-*
 ipch
 x64
 bin
+.vs
+tmp
 *~
